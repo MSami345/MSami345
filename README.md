@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m **[Your Name]**
+### 👋 Hi there, I’m **Muhammad Samiullah**
 
 I'm a passionate Full-Stack Web Developer who loves building modern, scalable, and user-friendly web applications. My tech toolbox includes:
 
